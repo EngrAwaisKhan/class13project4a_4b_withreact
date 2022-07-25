@@ -1,6 +1,6 @@
 .target{
   display: none;
-  background: red;
+  /* background: red; */
   width: 200px;
   display: flex;
   justify-content: center;
